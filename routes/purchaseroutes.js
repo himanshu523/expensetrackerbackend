@@ -1,6 +1,6 @@
 const express = require('express');
 
-const purchasecontrollers = require('../controllers/purchaseControllers');
+const purchasecontrollers = require('../controllers/purchasecontrollers');
 
 const authenticatemiddleware = require('../middleware/auth');
 
